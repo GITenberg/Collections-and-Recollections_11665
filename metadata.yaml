@@ -1,0 +1,33 @@
+_repo: Collections-and-Recollections_11665
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Russell, George William Erskine
+    alias: Russell, G. W. E. (George William Erskine)
+    birthdate: 1853
+    deathdate: 1919
+    gutenberg_agent_id: '4061'
+    url: http://www.gutenberg.org/2009/agents/4061
+    wikipedia: http://en.wikipedia.org/wiki/George_William_Erskine_Russell
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11665'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'England -- Social life and customs -- 19th century'
+- GITenberg
+tableOfContents: Links with the past -- Lord Russell -- Lord Shaftesbury -- Cardinal
+  Manning -- Lord Houghton -- Religion and morality -- Social equalization -- Social
+  amelioration -- The evangelical influence -- Politics -- Parliamentary oratory --
+  Conversation -- Clergymen -- Repartee -- Titles -- The queen's accession -- "Princedoms,
+  virtues, powers" -- Lord Beaconsfield -- Flatterers and bores -- Advertisements
+  -- Parodies in prose -- Parodies in verse -- Verbal infelicities -- The art of putting
+  things -- Children -- Letter-writing -- Officialdom -- An old photograph-book.
+title: Collections and Recollections
+url: http://www.gutenberg.org/ebooks/11665
